@@ -5,6 +5,9 @@
 * Angular
 * Ionic
 * CapacitorJS
+* Tailwind CSS
+* UX/UI Design
+* Figma
 
 <!--
 **emmanuelrojas/emmanuelrojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
